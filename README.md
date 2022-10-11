@@ -1,1 +1,5 @@
-# Neural-network-for-image-recognition-with-the-Russian-alphabet
+# NeuralNetworkForImageRecognition
+## Архитектура
+* Свёрточная нейронная сеть
+## Описание
+Сверточная нейронная сеть которая распознает изображения с кирилицей(буквами русского алфавита). За основу взят датасет https://github.com/GregVial/CoMNIST.
